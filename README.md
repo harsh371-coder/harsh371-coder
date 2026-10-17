@@ -19,10 +19,14 @@ Featured projects
 
 | [Vartalaap](https://github.com/harsh371-coder/java-chat-application) | Multi-user chat with private and group messaging and file sharing | Multithreaded TCP server, Swing GUI | Java |
 
-Tech
+Tech Arsenal
+
 Languages: Python · Java · SQL
+
 ML / GenAI TensorFlow · Keras · scikit-learn · LangChain · LangGraph · Mistral AI
+
 Data & tools: Pandas · NumPy · Matplotlib · Power BI · MySQL · Git
 
 Currently
+
 Working on Campusone AI a multiagent chatbot system for all your queries, build using RAG pipelines
