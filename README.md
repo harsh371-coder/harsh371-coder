@@ -1,16 +1,26 @@
-## Hi there 👋
+Hi, I'm Harsh Agarwal 👋
 
-<!--
-**harsh371-coder/harsh371-coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+CS undergrad @ Bennett University ('28) building applied ML systems that ship, from model to working interface.
+Focus: GenAI, Agentic AI · multi-agent LLM pipelines · full-stack ML apps
 
-Here are some ideas to get you started:
+📍 Greater Noida, India · 🎯 Open to SWE / ML internships
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[Portfolio](https://harsh-portfolio-x2ld.onrender.com) · [LinkedIn](https://www.linkedin.com/in/harsh-agarwal-891945318/) · [Email](mailto:connect.harsh86@gmail.com) · [Resume](https://harsh-portfolio-x2ld.onrender.com/resume.pdf)
+
+---
+
+Featured projects
+
+| Project | What it does | Proof | Stack |
+
+| [MediScan AI](https://github.com/harsh371-coder/Medical-Image-Analysis) | MRI tumor segmentation across brain, cardiac and prostate | Dice 0.87 / IoU 0.79 · 5 CNN architectures benchmarked | TensorFlow, Keras, DeepLabV3+ |
+| [Multi-Agent Research System](https://github.com/harsh371-coder/Multi-Agent-Research-System) · [live demo](https://multi-agent-research-system-jkhdtyuzndnuyds66w2kiz.streamlit.app/) | Search → read → write → critique pipeline that ends with a critic score | Deployed on Streamlit | LangChain, LangGraph, Mistral AI, Tavily |
+| [Vartalaap](https://github.com/harsh371-coder/java-chat-application) | Multi-user chat with private and group messaging and file sharing | Multithreaded TCP server, Swing GUI | Java |
+
+Tech
+Languages: Python · Java · SQL
+ML / GenAI TensorFlow · Keras · scikit-learn · LangChain · LangGraph · Mistral AI
+Data & tools: Pandas · NumPy · Matplotlib · Power BI · MySQL · Git
+
+Currently
+Working on Campusone AI a multiagent chatbot system for all your queries, build using RAG pipelines
