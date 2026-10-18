@@ -15,7 +15,7 @@ Featured projects
 
 | [MediScan AI](https://github.com/harsh371-coder/Medical-Image-Analysis) | MRI tumor segmentation across brain, cardiac and prostate | Dice 0.87 / IoU 0.79 · 5 CNN architectures benchmarked | TensorFlow, Keras, DeepLabV3+ 
 
-| [Multi-Agent Research System](https://github.com/harsh371-coder/Multi-Agent-Research-System) · [live demo](https://multi-agent-research-system-jkhdtyuzndnuyds66w2kiz.streamlit.app/) | Search → read → write → critique pipeline that ends with a critic score | Deployed on Streamlit | LangChain, LangGraph, Groq AI, Tavily 
+| [Multi-Agent Research System](https://github.com/harsh371-coder/Multi-Agent-Research-System) · [live demo](https://multi-agent-research-system-jkhdtyuzndnuyds66w2kiz.streamlit.app/) | Search → read → write → critique pipeline that ends with a critic score | Deployed on Streamlit | LangChain, LangGraph, Gemini AI, Tavily 
 
 | [Vartalaap](https://github.com/harsh371-coder/java-chat-application) | Multi-user chat with private and group messaging and file sharing | Multithreaded TCP server, Swing GUI | Java |
 
