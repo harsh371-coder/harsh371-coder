@@ -5,7 +5,7 @@ Focus: GenAI, Agentic AI · multi-agent LLM pipelines · full-stack ML apps
 
 📍 Greater Noida, India · 🎯 Open to SWE / ML internships
 
-[Portfolio](https://harsh-portfolio-x2ld.onrender.com) · [LinkedIn](https://www.linkedin.com/in/harsh-agarwal-891945318/) · [Email](mailto:connect.harsh76@gmail.com) · [Resume](https://harsh-portfolio-x2ld.onrender.com/resume.pdf)
+[Portfolio](https://harsh-portfolio-x2ld.onrender.com) · [LinkedIn](https://www.linkedin.com/in/harsh-agarwal-891945318/) · [Email](mailto:connect.harsh76@gmail.com) 
 
 ---
 
